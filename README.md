@@ -1,4 +1,5 @@
-# Welcome to your project
+# Welcome to my project 
+For now download the Clubify_updated.zip file for the whole code...coz other files incomplete
 
 ## Project info
 
